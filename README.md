@@ -20,7 +20,6 @@ This notebook works with a dataset containing sensitive information where we aim
 
 ## 🏆 Kaggle Competition:
 - **Score:** 0.81
-- **Competition Link:** [Add Kaggle Competition Link Here]
 
 ## 📜 Steps to Run:
 1. Clone this repository.
